@@ -1,4 +1,4 @@
-#  Awesome DMCA list [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/blinovartem)
+#  Awesome DMCA list [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/temablinov)
 
 > A curated list of awesome of popular services that have special information for protecting digital content.
 
@@ -8,12 +8,6 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 ## How to Contribute
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
-
-## How to Share
-
-* [Share on Twitter]()
-* [Share on Facebook]()
-
 
 ## Donate :heart:
 
